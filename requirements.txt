@@ -16,6 +16,9 @@ seaborn==0.13.2
 snownlp==0.12.3
 stanza==1.10.1
 tensorflow==2.15.0
+textblob==0.17.0
 torch==2.4.1
+vaderSentiment==3.3.2
 wordcloud==1.9.3
 git+https://github.com/Text-Analytics-and-Retrieval/GuidedLDA.git#egg=GuidedLDA
+git+https://github.com/trinker/sentimentpy
