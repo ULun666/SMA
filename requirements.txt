@@ -20,5 +20,8 @@ textblob==0.17.0
 torch==2.4.1
 vaderSentiment==3.3.2
 wordcloud==1.9.3
+ckip_transformers==0.2.1
+regex
+tqdm
 git+https://github.com/Text-Analytics-and-Retrieval/GuidedLDA.git#egg=GuidedLDA
 git+https://github.com/trinker/sentimentpy
